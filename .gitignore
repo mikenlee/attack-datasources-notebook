@@ -3,4 +3,11 @@
 bin/
 include/
 lib/
+share/
+etc/
+lib64/
+.ipynb_checkpoints/
 pyvenv.cfg
+prioritized_TTPs.ipynb
+hunt_tracker_data_cleaning.ipynb
+attack_venv/lib64
